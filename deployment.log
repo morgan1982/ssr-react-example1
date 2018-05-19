@@ -1,0 +1,6 @@
+plesk 
+
+inside node app 
+
+►  set application startapp file to server.js
+-- webpack will bundle to server.js to root directory 
